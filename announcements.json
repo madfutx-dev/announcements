@@ -1,0 +1,22 @@
+{
+  "announcements": [
+    {
+      "tag": "NEW",
+      "title": "Welcome to MFX Mod",
+      "summary": "Announcements are live. Edit this file on GitHub to push updates instantly.",
+      "time": "JUST NOW",
+      "body": "This feed is loaded from GitHub when players tap Announcements in the mod menu.\n\nTo publish a new note, edit announcements.json in your repo and commit. Every player sees it on their next open — no APK rebuild required.",
+      "link": "https://www.madfut26.com",
+      "linkLabel": "FIND OUT MORE  \u203a"
+    },
+    {
+      "tag": "LIVE",
+      "title": "New Season Cards Live",
+      "summary": "'Rising Stars' edition now available in Ultra Elite packs.",
+      "time": "2 HOURS AGO",
+      "body": "'Rising Stars' features 20 brand-new players with dynamic ratings based on real-world performance milestones.\n\nCards are now obtainable with significantly boosted odds through limited-time Ultra Elite Packs.",
+      "link": "https://www.madfut26.com",
+      "linkLabel": "FIND OUT MORE  \u203a"
+    }
+  ]
+}

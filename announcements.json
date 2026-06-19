@@ -1,22 +1,23 @@
 {
   "announcements": [
     {
+      "tag": "LIVE",
+      "title": "Our Mod Updates Have Gone Live!",
+      "summary": "'You can now download the most advanced version of the Madfutx Mod",
+      "time": "TODAY",
+      "body": "'We are so excited for you to try our brand new mod! This is just the start of the features we will be implementing.\n\nYou can grab the VIP version of this Mod if you'd like to play online, save your progress and use our trading mod features by clicking the button below.\n\nThank you all for the support and making this possible.",
+      "link": "https://www.madfut26.com",
+      "linkLabel": "CLAIM VIP  \u203a"
+    },
+
+    {
       "tag": "NEW",
       "title": "Welcome to MFX Mod",
-      "summary": "Announcements are live. Edit this file on GitHub to push updates instantly.",
-      "time": "JUST NOW",
-      "body": "This feed is loaded from GitHub when players tap Announcements in the mod menu.\n\nTo publish a new note, edit announcements.json in your repo and commit. Every player sees it on their next open — no APK rebuild required.",
+      "summary": "Pay attention to announcements, news drops almost everyday!",
+      "time": "TODAY",
+      "body": "Welcome to the BEST mod ever released, seriously!\n\nI hope you make the most fo all the features i've taken time to build for you, it's been so fun to create experiences for you in MadFUT to enjoy\n\nI'll be posting announcements frequently, so be sure to check here everyday!",
       "link": "https://www.madfut26.com",
-      "linkLabel": "FIND OUT MORE  \u203a"
+      "linkLabel": "OUR STORE  \u203a"
     },
-    {
-      "tag": "LIVE",
-      "title": "New Season Cards Live",
-      "summary": "'Rising Stars' edition now available in Ultra Elite packs.",
-      "time": "2 HOURS AGO",
-      "body": "'Rising Stars' features 20 brand-new players with dynamic ratings based on real-world performance milestones.\n\nCards are now obtainable with significantly boosted odds through limited-time Ultra Elite Packs.",
-      "link": "https://www.madfut26.com",
-      "linkLabel": "FIND OUT MORE  \u203a"
-    }
   ]
 }
